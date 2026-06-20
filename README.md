@@ -2,8 +2,8 @@
 
 Source: https://novel-studies-483289.framer.app
 Mode: full-site
-Pages: 9
-Assets: 1025
+Pages: 8
+Assets: 1028
 
 ## Hosting
 
